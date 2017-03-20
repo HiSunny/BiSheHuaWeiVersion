@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IndoorLocation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_left">南进入林荫道通向东南门，向东右拐进入阶教和红楼</string>
+    <string name="text_right">向西进入北门小广场，上楼梯进入I区262</string>
+    <string name="text_bottom">向北左拐到北门，右拐进入东大楼</string>
+
+</resources>
